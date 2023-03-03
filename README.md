@@ -1,5 +1,5 @@
 # Projet2_PremierSite
-# Formation Développeur Front-End - Projet 2 - Booki
+# Formation Développeur Web - Projet 2 - Booki
 ------------
 ### Description du projet
 Ce projet est le n°2 du parcours [**Développeur Web**](https://openclassrooms.com/fr/paths/185-developpeur-web) qui consiste à transformer une maquette en site web avec HTML et CSS.
